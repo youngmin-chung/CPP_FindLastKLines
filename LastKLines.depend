@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622494796 source:c:\backup\c_workspace\lastklines\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,24 @@
+01: There was a farmer who had a dog,
+02: and Bingo was his name-o.
+03: B-I-N-G-O
+04: B-I-N-G-O
+05: B-I-N-G-O
+06: And Bingo was his name-o.
+07: There was a farmer who had a cat
+08: and Bingo was his name-o.
+09: B-I-N-G-O
+10: B-I-N-G-O
+11: B-I-N-G-O
+12: And Bingo was his name-o.
+13: There was a farmer who had a deer
+14: and Bingo was his name-o.
+15: B-I-N-G-O
+16: B-I-N-G-O
+17: B-I-N-G-O
+18: And Bingo was his name-o.
+19: There was a farmer who had a pig,
+20: and Bingo was his name-o.
+21: B-I-N-G-O
+22: B-I-N-G-O
+23: B-I-N-G-O
+24: And Bingo was his name-o.
